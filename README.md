@@ -1,3 +1,3 @@
 # website
 
-This is owned by Vishwanath Akuthota
+This is owned by Vish
