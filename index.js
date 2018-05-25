@@ -1,5 +1,5 @@
-var bootstrap = require('bootstrap');
-var app = bootstrap();
+var express = require('express');
+var app = express();
 
 //set port 
 var port = process.env.PORT || 8080
